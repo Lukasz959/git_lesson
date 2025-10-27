@@ -1,3 +1,3 @@
 # My personal Web Page
 
-![](https://duckduckgo.com/?q=Velo+snus&iar=images&iai=https%3A%2F%2Fsnusforsale.com%2Fwp-content%2Fuploads%2F2024%2F02%2Fvelo-mighty-peppermint-max-17mg.png)
+![](https://lh3.googleusercontent.com/sitesv/AAzXCkcKy5zFRviCc2ZvN_ZwuUm-NazKKBx-qfPGBjF6SHfGaZdHTTl8T_w_kD-Bg5ylqGvwyIK7OPyzkW-YKtDtrzpbiTqsc7WZ2UYcWUim_xc7CWgYJ9OC5AFEuSbQhFEe1SbFoNI_iacXye35KNEhxe2i7cyThU9jN2ql05vToDc5En4XdnXizetukJ_wKgWUG33I-zTpiWUvpiF4FIQOnPpjsbLmPzHYeXIE=w1280)
