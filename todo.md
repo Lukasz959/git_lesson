@@ -3,3 +3,4 @@
 - [ ] Compare results for 15 layers
 - [ ] Run simulation with smaller initial layers
 - [ ] Compare results
+- [ ] Plot corellation between results and yPlus value
